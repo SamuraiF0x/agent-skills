@@ -51,7 +51,7 @@ Refactor code with strict behavior parity and clear separation of concerns.
    - Extract custom hooks for reusable state and effects.
    - Split UI into smaller focused components.
    - Keep imports and exports explicit and minimal.
-   - Add clear documentation for each file.
+   - Add clear documentation to top of each file.
 
 4. Preserve behavior
    - Keep public API unchanged unless explicitly requested.
