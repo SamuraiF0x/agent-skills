@@ -6,6 +6,7 @@ Personal agent skills for installation via npx skills add.
 
 - refactor: Refactor existing code with strict behavior parity.
 - improve-arch: Follow-up to refactor for deep-module architecture improvements.
+- implement-clean: Apply refactor-quality structure while implementing features and updates.
 
 ## Publish
 
@@ -23,6 +24,7 @@ git push origin main
 npx skills add samuraif0x/agent-skills
 npx skills add samuraif0x/agent-skills --skill refactor
 npx skills add samuraif0x/agent-skills --skill improve-arch
+npx skills add samuraif0x/agent-skills --skill implement-clean
 ```
 
 ## Update
